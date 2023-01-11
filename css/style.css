@@ -140,12 +140,14 @@ body {
   display: flex;
   justify-content: space-between; 
   justify-content: left;  
+  text-align: center;
 }
 
 .profi {
-display: flex;
+  display: flex;
   justify-content: space-between; 
   justify-content: left;
+  text-align: center;
 }
 
 .master {
@@ -153,6 +155,7 @@ display: flex;
   justify-content: space-between; 
   justify-content: left;
   margin-bottom: 50px;
+  text-align: center;
 }
 
 .otzov {
