@@ -133,7 +133,8 @@ body {
 }
 
 .icon-curs-s {
-  display: flex;     
+  display: flex; 
+  width: 50px;    
 }
 
 .standart {
